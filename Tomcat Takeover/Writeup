@@ -1,0 +1,7 @@
+Para este ejercicio de Cyberdefenders se va a utilizar una máquina Kali Linux y la herramienta que se va a utilizar para el análisis del archivo .pcap será Wireshark.
+
+Pregunta 1. Given the suspicious activity detected on the web server, the pcap analysis shows a series of requests across various ports, suggesting a potential scanning behavior. 
+Can you identify the source IP address responsible for initiating these requests on our server?
+
+Para saber que IP es la que ha estado haciendo peticiones a diferentes puertos entramos en "Statistics > Endpoints".
+Dentro de este apartado nos movemos a "IPv4" se puede observar que hay dos IPs con mucho envío de paquetes.
