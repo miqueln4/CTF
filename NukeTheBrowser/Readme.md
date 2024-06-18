@@ -164,6 +164,6 @@ Siguiendo el "HTTP Stream" del ejercicio anterior buscando por la palabro "ming"
 
 ### Q14. The shellcode used a native function inside 'urlmon.dll' to download files from the internet to the compromised host. What is the name of the function?
 
-Pasandole el archivo de la pregunta 8 o el de la pregunta 10 por la herramienta "scdbg" obtenemos la función nativa dentro de "urlmon.dll" --> "URLDownloadToFile"
+Pasandole el archivo de la pregunta 8 o el de la pregunta 10 por la herramienta "scdbg" obtenemos la función nativa dentro de "urlmon.dll"   --> "URLDownloadToFile"
 
 ![img 33](_images/cap_33.png)
