@@ -84,7 +84,7 @@ El algoritmo lo encontramos en este mismo archivo, en la función "encryptPayloa
 
 #### Sol. AES
 
-### Q10.
+### Q10. What does the extension access to store or manipulate session-related data and authentication information?
 
 En el archivo manifest tenemos los permisos que se deben otorgar a la nueva extensión. Uno de estos nos permitirá tener acceso a las cookies del navegador.
 
